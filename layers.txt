@@ -1,0 +1,25 @@
+
+Link: https://docs.ultralytics.com/yolov5/tutorials/transfer_learning_with_frozen_layers/#freeze-backbone
+
+Link For  all
+Link: https://github.com/ultralytics/ultralytics/tree/main/ultralytics/cfg/models
+
+over all layers are 10 
+
+YOLO V5 YALM LINKS: https://github.com/ultralytics/yolov5/tree/master/models
+
+YOLO V8 YALM LINKS: https://github.com/autogyro/yolo-V8/tree/main/ultralytics/models/v8
+yolov86x - 12
+
+YOLO V9 YALM LINKS::https://github.com/WongKinYiu/yolov9/blob/main/models/detect/yolov9-t.yaml
+9-t : 9
+9-s:9
+
+
+YOLO V10 YALM LINKS: https://github.com/THU-MIG/yolov10/tree/main/ultralytics/cfg/models/v10
+n:11
+s: 11
+m:11
+x:11
+l:11
+b:11

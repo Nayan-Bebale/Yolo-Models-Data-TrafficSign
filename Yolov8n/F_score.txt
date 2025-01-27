@@ -1,0 +1,4 @@
+precision, recall = 0.931, 0.894
+
+print(f_score(precision, recall))
+0.9121249315068494
